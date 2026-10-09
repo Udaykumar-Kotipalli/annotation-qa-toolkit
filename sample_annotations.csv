@@ -1,0 +1,9 @@
+record_id,text,label,confidence
+101,This product is excellent,positive,0.97
+102,Delivery was late,negative,0.94
+103,Very useful tool,positive,0.91
+104,,positive,0.82
+105,Average experience,neutral,0.72
+105,Average experience,neutral,0.72
+106,Not worth the price,bad_label,0.81
+107,Great support,positive,1.20
